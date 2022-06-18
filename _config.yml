@@ -25,6 +25,10 @@ author     : Your Name
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
+collections:
+  portfolio:
+    output: false
+
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
